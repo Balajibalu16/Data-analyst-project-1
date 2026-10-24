@@ -1,1 +1,1 @@
-# Data-analyst-project-1
+# HR analytics
